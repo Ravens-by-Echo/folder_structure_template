@@ -24,6 +24,10 @@ This repository serves as a template for a structured and easy to maintain proje
 
 ## Directories Overview
 
+### .environment
+
+Contains environment configurations, a template of this can be found in [mini-forge_environment_template](https://github.com/Ravens-by-Echo/mini-forge_environment_template).
+
 ### 01_documentation
 
 Contains project documentation such as architecture descriptions, design decisions, diagrams, and user or developer guides.
